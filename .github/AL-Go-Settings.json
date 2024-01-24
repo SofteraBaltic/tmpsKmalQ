@@ -5,5 +5,6 @@
   "doNotPublishApps": true,
   "useCompilerFolder": true,
   "MicrosoftTelemetryConnectionString": "",
-  "runs-on": "ubuntu-latest"
+  "runs-on": "ubuntu-latest",
+  "templateSha": "d2bdabbee96a6097a9798867c8367acab52c6c4a"
 }
